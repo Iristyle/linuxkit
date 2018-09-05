@@ -174,7 +174,7 @@ func dockerPull(ref *reference.Spec, forcePull, trustedPull bool) error {
 
 func dockerClient() (*client.Client, error) {
 	// for maximum compatibility as we use nothing new
-	err := os.Setenv("DOCKER_API_VERSION", "1.23")
+	err := os.Setenv("DOCKER_API_VERSION", "1.24")
 	if err != nil {
 		return nil, err
 	}

@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/linuxkit/linuxkit/src/cmd/linuxkit/pkglib"
+	"github.com/Iristyle/linuxkit/src/cmd/linuxkit/pkglib"
 )
 
 func pkgPush(args []string) {

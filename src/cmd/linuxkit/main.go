@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/linuxkit/linuxkit/src/cmd/linuxkit/version"
+	"github.com/Iristyle/linuxkit/src/cmd/linuxkit/version"
 
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"

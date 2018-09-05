@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/linuxkit/linuxkit/src/cmd/linuxkit/version"
+	"github.com/Iristyle/linuxkit/src/cmd/linuxkit/version"
 	log "github.com/sirupsen/logrus"
 )
 
